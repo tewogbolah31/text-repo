@@ -5,3 +5,6 @@ this is just the beginning
 
 practice makes perfect 
 
+never give up 
+cahse your dream 
+
