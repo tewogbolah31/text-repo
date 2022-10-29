@@ -6,6 +6,15 @@ this is just the beginning
 practice makes perfect 
 
 never give up 
+
 chase your dream 
-Mr sheriff tewogbola
+
+Mr sheriff tewogbola (De-chairman)
+
+
+## local development
+
+1. open index.html in your browser
+
+
 
